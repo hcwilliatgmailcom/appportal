@@ -11580,12 +11580,14 @@
       "outputPath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hcwil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hcwil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11648,7 +11650,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -11657,7 +11659,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "\"appportal\" ist von \"MySql.EntityFrameworkCore (>= 6.3.6)\" abhängig, \"MySql.EntityFrameworkCore 6.3.6\" wurde jedoch nicht gefunden. Die ungefähre höchste Übereinstimmung von \"MySql.EntityFrameworkCore 7.0.0\" wurde aufgelöst.",
+      "message": "appportal depends on MySql.EntityFrameworkCore (>= 6.3.6) but MySql.EntityFrameworkCore 6.3.6 was not found. An approximate best match of MySql.EntityFrameworkCore 7.0.0 was resolved.",
       "libraryId": "MySql.EntityFrameworkCore",
       "targetGraphs": [
         "net7.0"

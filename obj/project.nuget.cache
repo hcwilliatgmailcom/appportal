@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JAxoOvXCFmH+aypSfvYYIziqWAXJ0wXBFEQ0dMsKksSF51ZaZFHdpgr1zSzlF+5U4ERZtSWCYoEGUT/MwQ6bHQ==",
+  "dgSpecHash": "J/vXShJcGrCCY3PhRrUhIpWQm4KCehYABE2jj6vcn7v+I5thDrp+QJc9v7VlgseccnPdZNNE5ms+IfmS1joNYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
   "expectedPackageFiles": [
@@ -240,7 +240,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "\"appportal\" ist von \"MySql.EntityFrameworkCore (>= 6.3.6)\" abhängig, \"MySql.EntityFrameworkCore 6.3.6\" wurde jedoch nicht gefunden. Die ungefähre höchste Übereinstimmung von \"MySql.EntityFrameworkCore 7.0.0\" wurde aufgelöst.",
+      "message": "appportal depends on MySql.EntityFrameworkCore (>= 6.3.6) but MySql.EntityFrameworkCore 6.3.6 was not found. An approximate best match of MySql.EntityFrameworkCore 7.0.0 was resolved.",
       "libraryId": "MySql.EntityFrameworkCore",
       "targetGraphs": [
         "net7.0"
