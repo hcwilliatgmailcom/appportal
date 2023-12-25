@@ -3,8 +3,8 @@
 @using System.Collections.Generic
 @using System.Linq
 @{
-    //System.Diagnostics.Debugger.Launch();
-    //System.Diagnostics.Debugger.Break();
+    System.Diagnostics.Debugger.Launch();
+    System.Diagnostics.Debugger.Break();
 
     System.Reflection.MethodInfo getGetEntityInfoMethod = base.Model.ModelMetadata.ModelType.GetMethod("GetEntityInfo");
     object instance = System.Activator.CreateInstance(base.Model.ModelMetadata.ModelType);
