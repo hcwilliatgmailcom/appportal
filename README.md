@@ -24,11 +24,26 @@
         cd /home/hcwilli/.ssh/
         cat id_rsa.pub
         ssh ssh-w011d2f0@hcwilli.at
+        mysql -u d03f0bf2 -pCHGXdHiYiofWFQZE4rqF d03f0bf2
+        cd appportal.at
+        mkdir -p ./lib/bootstrap/dist/css
+        mkdir -p ./lib/bootstrap/dist/js
+        mkdir -p ./lib/jquery/dist/
+        mkdir -p ./css
+        mkdir -p ./js
+        scp /mnt/c/Users/hcwil/OneDrive/Dokumente/appportal/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css ssh-w011d2f0@hcwilli.at:/www/htdocs/w011d2f0/appportal.at/lib/bootstrap/dist/css/bootstrap.min.css
+        scp /mnt/c/Users/hcwil/OneDrive/Dokumente/appportal/wwwroot/lib/jquery/dist/jquery.min.js ssh-w011d2f0@hcwilli.at:/www/htdocs/w011d2f0/appportal.at/lib/jquery/dist/jquery.min.js
+        scp /mnt/c/Users/hcwil/OneDrive/Dokumente/appportal/wwwroot/css/site.css ssh-w011d2f0@hcwilli.at:/www/htdocs/w011d2f0/appportal.at/css/site.css
+        
+ 
+
+
+         
         exit
         bash
-        scp /mnt/c/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Create.cshtml ssh-w011d2f0@hcwilli.at:/www/htdocs/w011d2f0/appportal.at/index.php
 
 
+ 
 
 
  

@@ -17,13 +17,3 @@ public partial class Email
     }
  
 }
-
-public class EntityInfo
-{
-    public int Id { get; set; }
-}
-
-public class AttributeInfo
-{
-    public int Id { get; set; }
-}
