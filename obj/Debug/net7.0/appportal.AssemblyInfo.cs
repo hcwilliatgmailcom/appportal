@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appportal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2119f248d77acb52fca8dc37b1a9e354a8427916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c3d7905af3ccb7f50b1dc42bee7143c06687cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("appportal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appportal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

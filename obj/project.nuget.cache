@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/vXShJcGrCCY3PhRrUhIpWQm4KCehYABE2jj6vcn7v+I5thDrp+QJc9v7VlgseccnPdZNNE5ms+IfmS1joNYw==",
+  "dgSpecHash": "Xc1cgCsmYCSGGdweuydfgjx3+oWUEn2VD2MyJ/6+cQIXAeZvT306oz7AVLt2nkJwezikQPvU66GkTuKUqqd24g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+  "projectFilePath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hcwil\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\hcwil\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

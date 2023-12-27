@@ -9,355 +9,355 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = appportal
 build_property.RootNamespace = appportal
-build_property.ProjectDir = C:\Users\hcwil\OneDrive\Dokumente\appportal\
+build_property.ProjectDir = c:\Users\hcwil\OneDrive\Dokumente\appportal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hcwil\OneDrive\Dokumente\appportal
+build_property.MSBuildProjectDirectory = c:\Users\hcwil\OneDrive\Dokumente\appportal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiControllerWithActions.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiControllerWithActions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpQ29udHJvbGxlcldpdGhBY3Rpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiControllerWithContext.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiControllerWithContext.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiEmptyController.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ApiEmptyController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpRW1wdHlDb250cm9sbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ControllerWithActions.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/ControllerWithActions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQ29udHJvbGxlcldpdGhBY3Rpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/EmptyController.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/EmptyController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcRW1wdHlDb250cm9sbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/MvcControllerWithContext.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ControllerGenerator/MvcControllerWithContext.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcTXZjQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApi.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE1pbmltYWxBcGlcTWluaW1hbEFwaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiEf.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiEf.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE1pbmltYWxBcGlcTWluaW1hbEFwaUVmLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiEfNoClass.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiEfNoClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE1pbmltYWxBcGlcTWluaW1hbEFwaUVmTm9DbGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiNoClass.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MinimalApi/MinimalApiNoClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE1pbmltYWxBcGlcTWluaW1hbEFwaU5vQ2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MvcLayout/Error.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MvcLayout/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE12Y0xheW91dFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MvcLayout/_Layout.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/MvcLayout/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE12Y0xheW91dFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/CreatePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/CreatePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxDcmVhdGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/DeletePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/DeletePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZWxldGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/DetailsPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/DetailsPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/EditPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/EditPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFZGl0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFbXB0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/EmptyPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/EmptyPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/ListPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/ListPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxMaXN0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/CreatePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/CreatePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xDcmVhdGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/DeletePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/DeletePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZWxldGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/DetailsPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/DetailsPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/EditPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/EditPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFZGl0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFbXB0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/EmptyPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/EmptyPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/ListPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/ListPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xMaXN0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/CreatePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/CreatePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxDcmVhdGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/DeletePageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/DeletePageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZWxldGVQYWdlTW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/DetailsPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/DetailsPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/EditPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/EditPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFZGl0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFbXB0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/EmptyPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/EmptyPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/ListPageModel.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/ListPageModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxMaXN0UGFnZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/RazorPageGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/Startup/ReadMe.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/Startup/ReadMe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFN0YXJ0dXBcUmVhZE1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/Startup/Startup.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/Startup/Startup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFN0YXJ0dXBcU3RhcnR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRW1wdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRW1wdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Empty.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/Empty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRW1wdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/List.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Templates/ViewGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Create.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Delete.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Details.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Edit.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Index.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Email/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Home/Index.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Home/Privacy.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/Error.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/_ViewImports.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/_ViewStart.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/_Layout.cshtml]
+[c:/Users/hcwil/OneDrive/Dokumente/appportal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-155f77vljn

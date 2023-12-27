@@ -11573,11 +11573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+      "projectUniqueName": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
       "projectName": "appportal",
-      "projectPath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+      "projectPath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
       "packagesPath": "C:\\Users\\hcwil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\obj\\",
+      "outputPath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hcwil\\AppData\\Roaming\\NuGet\\NuGet.Config",
