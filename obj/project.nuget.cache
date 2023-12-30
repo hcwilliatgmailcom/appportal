@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xc1cgCsmYCSGGdweuydfgjx3+oWUEn2VD2MyJ/6+cQIXAeZvT306oz7AVLt2nkJwezikQPvU66GkTuKUqqd24g==",
+  "dgSpecHash": "J/vXShJcGrCCY3PhRrUhIpWQm4KCehYABE2jj6vcn7v+I5thDrp+QJc9v7VlgseccnPdZNNE5ms+IfmS1joNYw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+  "projectFilePath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hcwil\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\hcwil\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -240,7 +240,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "\"appportal\" ist von \"MySql.EntityFrameworkCore (>= 6.3.6)\" abhängig, \"MySql.EntityFrameworkCore 6.3.6\" wurde jedoch nicht gefunden. Die ungefähre höchste Übereinstimmung von \"MySql.EntityFrameworkCore 7.0.0\" wurde aufgelöst.",
+      "message": "appportal depends on MySql.EntityFrameworkCore (>= 6.3.6) but MySql.EntityFrameworkCore 6.3.6 was not found. An approximate best match of MySql.EntityFrameworkCore 7.0.0 was resolved.",
       "libraryId": "MySql.EntityFrameworkCore",
       "targetGraphs": [
         "net7.0"

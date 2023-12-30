@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj": {}
+    "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj": {
+    "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+        "projectUniqueName": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
         "projectName": "appportal",
-        "projectPath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
+        "projectPath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\appportal.csproj",
         "packagesPath": "C:\\Users\\hcwil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\obj\\",
+        "outputPath": "C:\\Users\\hcwil\\OneDrive\\Dokumente\\appportal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hcwil\\AppData\\Roaming\\NuGet\\NuGet.Config",

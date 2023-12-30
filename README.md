@@ -25,6 +25,14 @@
         cat id_rsa.pub
         ssh ssh-w011d2f0@hcwilli.at
         mysql -u d03f0bf2 -pCHGXdHiYiofWFQZE4rqF d03f0bf2
+        show tables;
+        drop table Email;
+        create table Email (id int,person int);
+        ALTER TABLE `Person` ADD PRIMARY KEY( `id`);
+        create table Person (id int);
+        ALTER TABLE `Email` ADD FOREIGN KEY (`person`) REFERENCES `Person`(`id`);
+ 
+
         cd appportal.at
         mkdir -p ./lib/bootstrap/dist/css
         mkdir -p ./lib/bootstrap/dist/js
